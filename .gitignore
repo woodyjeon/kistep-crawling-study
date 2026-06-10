@@ -1,0 +1,8 @@
+# 다운로드된 PDF / 썸네일 (용량 큼, 로컬에서만 보관)
+files/
+images/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
